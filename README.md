@@ -1,7 +1,7 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
 
-<h3>Name: Aravindhnath TR</h3>
-<h3>Register Number:  212222100005 </h3>
+<h3>Name: Sivaramakrishnan B</h3>
+<h3>Register Number:  212222110044 </h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -95,9 +95,7 @@ G F <BR>
 F H <BR>
 
 <h3>Sample Output</h3>
-
-![OUT](Op1-ai2.png)
-
+![Op1-ai2](https://github.com/user-attachments/assets/2dd27772-7461-4d7e-b3bc-f7722c8f40de)
 
 <h3>Sample Input</h3>
 
@@ -109,9 +107,7 @@ F H <BR>
 2 4 <BR>
 
 <h3>Sample Output</h3>
-
-
-![OUT](Op2-ai2.png)
+![Op2-ai2](https://github.com/user-attachments/assets/8e0927a2-5f9d-49f1-956f-baa4ed64fe90)
 
 <h3>Result:</h3>
 
