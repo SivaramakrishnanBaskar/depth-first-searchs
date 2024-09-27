@@ -95,7 +95,7 @@ G F <BR>
 F H <BR>
 
 <h3>Sample Output</h3>
-![Op1-ai2](https://github.com/user-attachments/assets/34d3ba0e-2457-4ab7-a809-88d61efc2161)
+![image](https://github.com/user-attachments/assets/67aa5856-86d1-4d47-b5a5-a575e69ff0b6)
 
 <h3>Sample Input</h3>
 
