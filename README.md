@@ -95,6 +95,7 @@ G F <BR>
 F H <BR>
 
 <h3>Sample Output</h3>
+![image](https://github.com/user-attachments/assets/24abbdca-655f-41cc-a3ea-51520732c3b0)
 
 <h3>Sample Input</h3>
 
@@ -106,7 +107,7 @@ F H <BR>
 2 4 <BR>
 
 <h3>Sample Output</h3>
-![Op2-ai2](https://github.com/user-attachments/assets/4ee494fa-e1b2-448e-82a0-7ce1a4838794)
+![image](https://github.com/user-attachments/assets/d766fd72-f216-453a-9c4e-7c327f622901)
 
 <h3>Result:</h3>
 
